@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  Dibuat Oleh <a href="https://www.facebook.com/Awlad.Khan.7">Alif Febriyan</a> & <a href="https://www.facebook.com/gaaaarzxd">Angga Kurniawan</a>
+  <a href="https://www.facebook.com/Awlad.Khan.7">Alif Febriyan</a> & <a href="https://www.facebook.com/gaaaarzxd">Angga Kurniawan</a>
 </p>
 <p align="center">
  
